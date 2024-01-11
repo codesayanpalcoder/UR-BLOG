@@ -19,7 +19,7 @@
 
 `$ cd django_project_blogapp/`
 
-If virtualenv is not installed [(What is virtualenv?)](https://www.youtube.com/watch?v=N5vscPTWKOk&t=313s):
+If virtualenv is not installed 
 
 `$ pip install virtualenv`
 
@@ -91,20 +91,12 @@ If you want to use Docker to run this project, you need to do the following step
 ---
 
 
-## Stargazers
-
-[![Stargazers](https://reporoster.com/stars/Akash1362000/Django_BlogApp)](https://github.com/Akash1362000/Django_BlogApp/stargazers)
-
-Leave a ⭐ from [here](https://github.com/Akash1362000/Django_BlogApp) if you like 😁
-
----
-
 ### License ✍
 
 ```
 MIT License
 
-Copyright (c) 2020 Akash Shrivastava
+Copyright (c) 2023 Sayan Pal
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
